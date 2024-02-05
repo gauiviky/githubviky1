@@ -1,0 +1,1 @@
+creates viky.txt file
